@@ -4,8 +4,10 @@ type: docs
 ---
 
 # Welcome to my Digital Note Book.
+A passionate developer with 9+ years of experience specialized in Full Stack Web Development, mainly in the Java ecosystem. 
 
 {{< columns >}}
+
 ## **Testing** 
 * Postman
 * JMeter
