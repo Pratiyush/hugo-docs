@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
-        uses: pratiyush/hugo-docs@v2
+        uses: pratiyush/hugo-docs@master
         with:
           hugo-version: '0.83.1'
 
@@ -24,7 +24,7 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        uses: pratiyush/docs@v3
+        uses: pratiyush/docs@master
         if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
