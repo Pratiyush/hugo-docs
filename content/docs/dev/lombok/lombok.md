@@ -6,21 +6,21 @@ title: "Lombok - Level 1 / Begineer"
 
 # Introduction : Level 1 / Beginer
 
-{{< hint [info] >}}
+{{< hint info >}}
 **Markdown content**  
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 {{< /hint >}}
 
 
-{{< hint [danger] >}}
+{{< hint danger >}}
 **Markdown content**  
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 {{< /hint >}}
 
 
-{{< hint [warning] >}}
+{{< hint warning >}}
 **Markdown content**  
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
