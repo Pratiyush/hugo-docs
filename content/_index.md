@@ -3,39 +3,49 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# Welcome to my Digital Note Book.
 
 {{< columns >}}
-## Astris ipse furtiva
-
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+## **Testing** 
+* Postman
+* JMeter
+* Soap UI
+* Junit
+* TestNG
+* GREKIN
+* RestAssured
+* Selenium
 
 <--->
 
-## Suis quot vota
+## **Devlopment**
+* Java
+* Spring Boot
+* Hibernate
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+<--->
+
+## **DevOps**
+* Jenkins
+* Jira
+* Docker
+* Maven
+* Git
+* Kube
+<--->
+
+## **Database**
+* Oracle
+* MongoDB
 {{< /columns >}}
 
-
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+## **Others**
+* _Continious DELIVEZYJenkins_
+* _TDD_
+* _BDD_
+* _CLOUD_
+* _Allure_
+* _Extend Reports_
+* _Microservice_
+* _Curl_
+* _HttpClient_
