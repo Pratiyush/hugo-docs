@@ -22,12 +22,15 @@ languages:
 
 menu:
   after:
-    - name: "GITHUB"
+    - name: "GitHUB"
       url: "https://github.com/Pratiyush"
       weight: 10
-    - name: "LINKEDIN"
+    - name: "LinkedIN"
       url: "https://www.linkedin.com/in/pratiyush-kumar-singh-3a981918/"
       weight: 20
+    - name: "ShortCode"
+      url: "https://themes.gohugo.io/theme/hugo-book/"
+      weight: 30
 params:
   BookTheme: "light"
   BookToC: false
