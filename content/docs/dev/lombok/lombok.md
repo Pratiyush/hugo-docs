@@ -49,5 +49,4 @@ var panel = ram_design;
 
 
 # Additional Readings
-- {{< button relref="/" [class="..."] >}}Get Home{{< /button >}}
 - {{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
